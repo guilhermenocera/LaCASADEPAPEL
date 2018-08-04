@@ -19,3 +19,8 @@ A seguir encontrará as principais tarefas a se realizar na casa:
 ## Duração do projeto
 
 * O processo de limpeza pode ser concuído em 5 horas com 4 pessoas.
+
+### INICIAR
+
+1. Manter ambiente organizado para um melhor convívio de todos.
+Iniciar diversão: (https://github.com/guilhermenocera/LaCASADEPAPEL/projects/1)
