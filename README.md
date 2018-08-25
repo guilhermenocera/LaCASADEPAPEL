@@ -1,24 +1,24 @@
-# Sobre LaCasadePapel
-Como organizar uma limpeza rápida e eficiente com a ajuda de todos.
+# Sobre RedeseTelecom
+Postagem de exercícios com os códigos em Python.
 
 ### TODO
 1. Manter ambiente organizado para um melhor convívio de todos.
 
-## Realizando a Limpeza da CasadePapel
+## Realizando edição
 
-Notes - Se dirija para cada tarefa que deseja realizar e tome posse.
+Notes - Somente edite o código se ele estiver com alguma falha.
 
-#### Tarefas
-A seguir encontrará as principais tarefas a se realizar na casa:
-* Varrer a Casa - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/7`
-* Clean after Your dog - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/6`
-* Cortar a grama - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/5`
-* Retirar o lixo e ensacar - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/4`
+#### Matérias
+A seguir encontrará as principais tarefas a se realizar na Pós:
+* SDN - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/7`
+* SCM-1- `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/6`
+* GSR- `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/5`
+* CCNA - `https://github.com/guilhermenocera/LaCASADEPAPEL/issues/4`
 * Oferecer ajuda - `https://github.com/guilhermenocera/LaCASADEPAPEL/projects/1`
 
 ## Duração do projeto
 
-* Eterno...
+* 30 meses..
 
 ### INICIAR
 
